@@ -1,11 +1,8 @@
 <div align="center">
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Arslan0007;Welcome+to+my+code+hub!" alt="Typing SVG" />
-
   <h3>🚀 Building modern software & exploring new tech</h3>
-
   <br/>
-
   <a href="https://github.com/arslan0007">
     <img src="https://streak-stats.demolab.com?user=arslan0007&theme=radical&hide_border=true">
   </a>
@@ -45,6 +42,7 @@
   <h3>🧠 AI, Data Science & Computer Vision</h3>
   <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <br />
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
