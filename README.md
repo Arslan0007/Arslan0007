@@ -7,7 +7,7 @@
   <br/>
 
   <a href="https://github.com/Arslan0007">
-    <img src="https://github-readme-stats.vercel.app/api?username=Arslan0007&show_icons=true&theme=radical&hide_border=true" alt="Arslan0007's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=arslan0007&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="arslan0007's GitHub stats" />
   </a>
 
 </div>
