@@ -7,7 +7,7 @@
   <br/>
 
   <a href="https://github.com/arslan0007">
-    <img src="https://streak-stats.demolab.com?user=arslan0007&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&v=999" alt="arslan0007's GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=arslan0007&theme=radical&hide_border=true" alt="arslan0007's GitHub Streak" />
   </a>
 </div>
 
