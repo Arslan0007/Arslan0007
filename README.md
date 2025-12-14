@@ -56,4 +56,6 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 
+  <br />
+  <img src="https://profile-counter.glitch.me/arslan0007/count.svg" alt="visitor count" />
 </div>
